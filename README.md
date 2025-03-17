@@ -109,8 +109,8 @@
 
 **📌 Gyanmotay Vikas**
 
-**🔗 GitHub 
-• LinkedIn**
+**🔗 GitHub:-https://github.com/VikasOffical
+• LinkedIn:-https://www.linkedin.com/in/gyanmotay-vikas-62471126b/**
 
 # **⭐ Support & Feedback**
 
