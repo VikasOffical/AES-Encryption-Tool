@@ -30,11 +30,6 @@
 
 **✔️ Fast & Efficient – Lightweight tool with high-speed encryption**
 
-# **📸 Screenshots**
-![AES-256 Encryption Tool](images/Screenshot%202025-03-17%20181617.png)
-
-
-
 
 # **⚙️ How It Works**
 
@@ -120,4 +115,8 @@
 # **⭐ Support & Feedback**
 
 **If you like this project, consider giving it a star ⭐!Got feedback? Feel free to open an issue or reach out!**
+
+# **OUTPUT**
+
+[](![Image](https://github.com/user-attachments/assets/81d2a8ed-4b3f-45d0-9df0-90a6cf81fb44))
 
