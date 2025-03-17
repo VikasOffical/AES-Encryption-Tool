@@ -31,7 +31,8 @@
 **✔️ Fast & Efficient – Lightweight tool with high-speed encryption**
 
 # **📸 Screenshots**
-![AES-256 Encryption Tool](screenshot.png)
+![AES-256 Encryption Tool](images/Screenshot%202025-03-17%20181617.png)
+
 
 
 
