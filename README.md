@@ -105,12 +105,13 @@
 
 **Create a Pull Request, and we’ll review it!**
 
-## **👨‍💻 Author**
+## 👨‍💻 Author
 
-**📌 Gyanmotay Vikas**
+📌 **Gyanmotay Vikas**  
 
-**🔗 GitHub:-https://github.com/VikasOffical
-• LinkedIn:-https://www.linkedin.com/in/gyanmotay-vikas-62471126b/**
+🔗 **GitHub:** [github.com/VikasOffical](https://github.com/VikasOffical)  
+🔗 **LinkedIn:** [linkedin.com/in/gyanmotay-vikas-62471126b](https://www.linkedin.com/in/gyanmotay-vikas-62471126b/)  
+
 
 # **⭐ Support & Feedback**
 
